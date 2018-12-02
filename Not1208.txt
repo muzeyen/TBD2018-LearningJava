@@ -1,0 +1,13 @@
+While döngüsünü kullanma amacýmýz dýþarýdan durdurmak için ya da aramalarda kullanmak içindir. Örneðin kullanýcý 0 girdiðinde durmasý.
+
+Do while döngüsü ilk baþta çalýþtýrýyor daha sonra koþula bakýyor.
+
+JOptionPane.showInputDialog kullanýmý ile c#daki gibi form þeklinde kullanýcýdan sayý alabiliriz.
+
+JOptionPane.showMessageDialog(null,asalsayilar) bu þekilde çýktýlarýmýzý form þeklinde görðntüleyebiliyoruz.
+
+Referans tipte tanýmlanmýþ olan (Integer,String,Float,..) verileri baika bir deðiþkene eþitlediðimizde ve daha sonra o deðiþkenin deðerini deðiþtirdiðimde referans tipteki deðiþkende deðiþmiþ olur
+Integer x=6;
+Integer y=x;
+x=8; // y de sekiz olarak deðiþir.
+

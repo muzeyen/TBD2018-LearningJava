@@ -1,0 +1,37 @@
+quick-sort
+insert-sort
+try-catch: derleme sýrasýnda sýkýntý varsa düzeltmek için kullanýlýr.
+try{
+    sayi1=scn.nextInt();
+}
+catch(Exception e)
+{
+    System.out.println("Yanlýþ giriþ yaptýn lütfen sayý giriniz.");
+}
+
+Bir java dosyasýnýn içinde sadece bir sýnýf public olabilir
+
+Deðiþkenlerde kullanýlan this kullanýcýnýn girdiði stringi o deðiþkene atamaya yarar.
+
+Get set methodlarý private olanlara eriþimi saðlar.Get set methodlarý ile kontrollü eriþim oluyor.
+
+Get set methotlarý public tanýmlanýr.
+Atamalarda set methodu kullanýlýr
+
+Super Class bir sýnýftan sýnýf türetebiliyorsak o sýnýfa deriz.
+
+Insan (Super Class)
+->YetiskiInsan  (subclass)
+->CocukInsan    (subclass)
+
+Bir sýnýftan isediðin kadar nesne türetebilirsin ama bir sub classýn sadece bir superclassý (atasý) olabilir.
+
+Ata sýnýf altýndaki sýnýflarýn içerindeki methotlara,deðiþkenlere eriþemez.
+
+Subclass private olmadýðý sürese superclasstaki her þeye ulaþabilir Superclass subclasslarýn içindekilere ulaþamaz.
+
+Bir sýnýfý final ile tanýmlarsak bir daha o sýnýftan kalýtým ile sýnýf türetemeyiz.
+
+this() diðer sýnýflardaki yapýcýlarý çaðýrýyor
+
+super() ile ata sýnýfýn yapýcýlarýna ulaþabiliyoruz.

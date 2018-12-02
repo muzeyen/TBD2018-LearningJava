@@ -1,0 +1,19 @@
+Stringlerde bulunan split ile ayýrabiliyoruz stringleri.
+
+Integer a
+int b=3;
+a=new Integer(b); //boxing
+b=a.intValue; //unboxing
+
+Bir veriyi iþleme somayacaksak string almak daha faydalýdýr.
+
+concat komutu birbirine ekleme yapar.
+"cares".concat("s") :  "caress"
+
+Ýlkel veri tiplerinin de referans veri tiplerinde dizisini yapabilirsiniz.
+
+Kendi tanýmladýðýmýz classlardan dizi yapabiliriz.
+
+Arraylar boyutu deðiþmez,arraylistin boyutu deðiþir.
+
+

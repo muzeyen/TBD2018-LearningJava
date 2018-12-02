@@ -1,0 +1,20 @@
+Sýnýf isimleri her zaman büyük harfle baþlar. Eðer tek kelimeden fazla ise diðer kelimelerde büyük harfle baþlar.
+
+Deðiþken isimleri sadece harfle,dolarla ve alttan tire ile baþlayabilir
+int a;   int $1;    int _mounth;
+
+Final modifier kullandýðýmýzda deðiþkene atadýðýmýz deðeri sabitlemiþ oluyoruz.
+
+Sýnýflar referans tipte verilerdir
+
+Referans veri tipleri nesnelere eriþmek için kullanýrýz.
+
+Referans deðiþkenlerin varsaýlan deðeri null
+
+\r:satýr baþý
+\f:sonraki sayfa
+\b:silme 
+\s:boþluk býrakma
+\t:tab 
+\':tek týrnak yazar
+Static tanýmlanan dðiþkenler doðrudan o sýnýf ile çaðrýlýr

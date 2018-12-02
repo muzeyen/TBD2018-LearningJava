@@ -1,0 +1,28 @@
+Get methodu private olan bir deðiþkeni elde etmek için kullanýlýr,set methodu ise atama yapar.
+
+Overide bir method yetersiz kaldýðýnda onu deðiþtirip üstüne yazýyor.
+
+Upcasting 
+Downcasting : pbir sýnýfý atasýnda tutabiliyoruz
+      upcasting
+Insan ---------> Personel
+Insan <--------- Personel 
+      downcasting
+intanceof: Bir nesne senin örneðin mi diye soruyor.
+
+Soyut sýnýflardan nesne oluþturamazsýn. O sýnýftan kalýtýmla oluþturduðumuz sýnýftan nesne oluþturabiliriz.
+
+Arayüzler sadece yolgösterir. Interfacedeki tüm methodlar soyuttur.Abstract diye yazmaya gerek yoktur.
+
+Deðiþkenlerin ilk deðer atamasý da zorunludur interfacede.
+
+Interfacede methotlarýn gövdesi olmaz.
+
+Kalýtým için extends , Interface için ise implement ile yapýyoruz.
+
+Interface de kalýtým yapýlabilir.
+
+Interface içerisinde baþka bir interface oluþturulabilir.
+
+Sýnfýn içerisindeki bir methodun içinde bir sýnýf tanýmlayabiliyoruz.
+
